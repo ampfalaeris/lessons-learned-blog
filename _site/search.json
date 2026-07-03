@@ -33,5 +33,19 @@
     "title": "Adam Partin",
     "section": "Core Technical Focus Areas",
     "text": "Core Technical Focus Areas\n::: {layout-nw: [[1,1,1]]} ### Statistical Methods Hierarchical modeling, mixed-effects systems, and non-linear threshold tracking (TITAN) across temporal and environmental gradients.\n\nTypst & Automation\nBuilding headless, dynamic reporting pipelines using Quarto, Typst CLI, and automated database-to-PDF rendering engines.\n\n\nBioinformatics & Cloud\nCustomizing Nextflow DSL2 pipelines, cloud scaling with AWS HealthOmics, and processing high-dimensional environmental eDNA sequence data. :::"
+  },
+  {
+    "objectID": "bioinformatics/index.html",
+    "href": "bioinformatics/index.html",
+    "title": "Bioinformatics Techniques Wiki",
+    "section": "",
+    "text": "This section serves as an independent reference for creating, using, and maintaining bioinformatics pipelines, tools, and workflows in practice."
+  },
+  {
+    "objectID": "bioinformatics/index.html#articles-references",
+    "href": "bioinformatics/index.html#articles-references",
+    "title": "Bioinformatics Techniques Wiki",
+    "section": "Articles & References",
+    "text": "Articles & References"
   }
 ]

@@ -10,5 +10,8 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "03746854"
+  },
+  "bioinformatics/index.qmd": {
+    "index.html": "c512c10a"
   }
 }

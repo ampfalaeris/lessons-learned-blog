@@ -35,3 +35,5 @@ venv/
 Thumbs.db
 Ehthumbs.db
 Desktop.ini
+/.quarto/
+**/*.quarto_ipynb
