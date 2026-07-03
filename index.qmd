@@ -10,7 +10,7 @@ about:
       href: https://linkedin.com/in/adam-partin
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/ampfalaeris
 ---
 
 ::: { .text-center }
