@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+// Premium, authoritative color palette (Deep slate blue and clean accents)
+$theme-blue: #1a365d;
+$accent-gray: #f8fafc;
+$text-color: #334155;
+
+$primary: $theme-blue;
+$body-bg: #ffffff;
+$body-color: $text-color;
+
+// Typography mix for a data/wiki layout
+$font-family-sans-serif: "Inter", "Segoe UI", Roboto, sans-serif;
+$font-family-serif: "Linux Libertine", "Georgia", serif;
+$font-family-monospace: "SFMono-Regular", Consolas, Menlo, monospace;
+
+/*-- scss:rules --*/
+
+// Force all page subtitles (including standard and about pages) to center
+.subtitle, .quarto-title-block .subtitle {
+  text-align: center !important;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px; /* Keeps long subtitles from stretching awkwardly wide on big monitors */
+}
+
+// Make headings look like a premium typeset document
+h1, h2, h3, h4 {
+  font-family: $font-family-serif;
+  color: $theme-blue;
+  font-weight: 700;
+}
+
+// Give code blocks a subtle, premium wiki background
+.border {
+  border-radius: 6px;
+}
+
+div.sourceCode {
+  background-color: $accent-gray;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+}
+
+// Custom wrapper for your "Wiki-style" note boxes
+.engineered-note {
+  padding: 1em;
+  margin: 1em 0;
+  background-color: #f0fdf4; // Light environmental green tint
+  border-left: 4px solid #16a34a;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95em;
+}

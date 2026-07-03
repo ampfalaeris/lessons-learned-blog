@@ -1,0 +1,19 @@
+---
+title: "Notes for systems level use of Typst and Quarto."
+subtitle: "Production-tested frameworks for environmental metrics, spatial analysis, and non-linear systems."
+listing:
+  contents: 
+    - "*.qmd" # Crawl and list every Quarto markdown file in this specific folder
+  sort: "date desc" # Put the newest posts at the very top
+  type: default # Options: 'default' (clean blog rows), 'grid' (visual cards), or 'table'
+  categories: true # Automatically generates a clickable tag-cloud on the right sidebar!
+  sort-ui: true # Gives the user a dropdown to sort by title or date
+  filter-ui: true # Adds a real-time search box just for this category
+  fields: [date, title, description, reading-time, categories]
+---
+
+::: {.engineered-note}
+This section serves as an independent reference for how to implement Quarto and Typst at scale.
+:::
+
+## Articles & References
