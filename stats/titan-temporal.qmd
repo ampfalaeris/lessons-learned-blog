@@ -1,0 +1,8 @@
+---
+title: "TITAN Analysis Across Temporal Gradients"
+description: "How to adapt Threshold Indicator Taxa Analysis when time, rather than a physical distance, acts as your continuous environmental gradient."
+date: 2026-07-02
+categories: [Environmental Genomics, Microbes, R]
+---
+
+Article content, math, and code blocks go here once I get this initial setup locked in...
