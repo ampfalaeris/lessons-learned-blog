@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/bioinformatics/index.html",
+    "items": [
+      "/bioinformatics/nextflow-healthomics.html"
+    ]
+  },
+  {
+    "listing": "/typst/index.html",
+    "items": [
+      "/typst/headless-reports.html"
+    ]
+  },
+  {
+    "listing": "/stats/index.html",
+    "items": [
+      "/stats/titan-temporal.html"
+    ]
+  }
+]
