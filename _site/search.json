@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Adam Partin",
+    "objectID": "typst/index.html",
+    "href": "typst/index.html",
+    "title": "Notes for systems level use of Typst and Quarto.",
     "section": "",
-    "text": "Welcome to my personal technical wiki and portfolio. This space serves as an independent, production-tested reference for computational ecology, cloud bioinformatics, and automated typesetting pipelines."
+    "text": "This section serves as an independent reference for how to implement Quarto and Typst at scale."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "objectID": "typst/index.html#articles-references",
+    "href": "typst/index.html#articles-references",
+    "title": "Notes for systems level use of Typst and Quarto.",
+    "section": "Articles & References",
+    "text": "Articles & References"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "stats/titan-temporal.html",
+    "href": "stats/titan-temporal.html",
+    "title": "TITAN Analysis Across Temporal Gradients",
     "section": "",
-    "text": "About this blog"
+    "text": "Article content, math, and code blocks go here once I get this initial setup locked in…"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,11 +28,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html#core-technical-focus-areas",
-    "href": "index.html#core-technical-focus-areas",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Adam Partin",
-    "section": "Core Technical Focus Areas",
-    "text": "Core Technical Focus Areas\n::: {layout-nw: [[1,1,1]]} ### Statistical Methods Hierarchical modeling, mixed-effects systems, and non-linear threshold tracking (TITAN) across temporal and environmental gradients.\n\nTypst & Automation\nBuilding headless, dynamic reporting pipelines using Quarto, Typst CLI, and automated database-to-PDF rendering engines.\n\n\nBioinformatics & Cloud\nCustomizing Nextflow DSL2 pipelines, cloud scaling with AWS HealthOmics, and processing high-dimensional environmental eDNA sequence data. :::"
+    "section": "",
+    "text": "Welcome to my personal technical wiki and portfolio. This space serves as an independent, production-tested reference for computational ecology, cloud bioinformatics, and automated typesetting pipelines."
   },
   {
     "objectID": "bioinformatics/index.html",
@@ -45,6 +45,34 @@
     "objectID": "bioinformatics/index.html#articles-references",
     "href": "bioinformatics/index.html#articles-references",
     "title": "Bioinformatics Techniques Wiki",
+    "section": "Articles & References",
+    "text": "Articles & References"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "stats/index.html",
+    "href": "stats/index.html",
+    "title": "Statistical Methods Wiki",
+    "section": "",
+    "text": "This section serves as an independent reference playbook for non-standard ecological statistics and change-point modeling."
+  },
+  {
+    "objectID": "stats/index.html#articles-references",
+    "href": "stats/index.html#articles-references",
+    "title": "Statistical Methods Wiki",
     "section": "Articles & References",
     "text": "Articles & References"
   }

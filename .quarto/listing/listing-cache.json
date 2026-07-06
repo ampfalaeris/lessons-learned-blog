@@ -1,9 +1,12 @@
 {
   "listingMap": {
-    "index.qmd": [
-      "posts"
-    ],
     "bioinformatics\\index.qmd": [
+      "*.qmd"
+    ],
+    "stats\\index.qmd": [
+      "*.qmd"
+    ],
+    "typst\\index.qmd": [
       "*.qmd"
     ]
   }

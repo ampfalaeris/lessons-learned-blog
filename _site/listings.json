@@ -1,12 +1,20 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
+    "listing": "/typst/index.html",
+    "items": [
+      "/typst/headless-reports.html"
+    ]
   },
   {
     "listing": "/bioinformatics/index.html",
     "items": [
       "/bioinformatics/nextflow-healthomics.html"
+    ]
+  },
+  {
+    "listing": "/stats/index.html",
+    "items": [
+      "/stats/titan-temporal.html"
     ]
   }
 ]

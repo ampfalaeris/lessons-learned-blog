@@ -13,5 +13,20 @@
   },
   "bioinformatics/index.qmd": {
     "index.html": "c512c10a"
+  },
+  "bioinformatics/nextflow-healthomics.qmd": {
+    "nextflow-healthomics.html": "bdf5e1ea"
+  },
+  "stats/index.qmd": {
+    "index.html": "2e0b45aa"
+  },
+  "stats/titan-temporal.qmd": {
+    "titan-temporal.html": "8d95eb84"
+  },
+  "typst/headless-reports.qmd": {
+    "headless-reports.html": "153cc3b9"
+  },
+  "typst/index.qmd": {
+    "index.html": "8b837966"
   }
 }
