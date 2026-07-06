@@ -1,0 +1,6 @@
+---
+title: "Implementing Quarto PDF Reports Compiled via Typst"
+description: "A demonstration of how to use Typst to generate PDF reports from Quarto documents, including the integration of code and data analysis."
+date: 2026-07-06
+categories: [Quarto, Typst, Report Generation, R, Data Analysis]
+---

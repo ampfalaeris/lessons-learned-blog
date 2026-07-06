@@ -1,0 +1,6 @@
+---
+title: "Implementing Nextflow pipelines in AWS HealthOmics"
+description: "Practical implementation strategies for deploying Nextflow workflows in an AWS HealthOmics environment."
+date: 2026-07-06
+categories: [Genomics, Microbes, Nextflow, AWS HealthOmics]
+---
